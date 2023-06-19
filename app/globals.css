@@ -3,3 +3,6 @@
 @tailwind utilities;
 
 
+.ReactCollapse--collapse{
+    transition: height 400ms;
+}
